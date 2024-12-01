@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_enchantedforest",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":1,
+  "conversionMode":0,
+  "duration":148.0,
+  "name":"snd_enchantedforest",
+  "parent":{
+    "name":"ost",
+    "path":"folders/Sounds/ost.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_enchantedforest.wav",
+  "type":1,
+  "volume":0.29,
+}

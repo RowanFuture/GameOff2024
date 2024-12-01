@@ -1,0 +1,1 @@
+draw_sprite_ext(sprite_index,image_index,x,y,1,1,round(dsin(current_time*.2+x))*10,c_white,1);

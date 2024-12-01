@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_rectangle_polyfill",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_rectangle_polyfill",
+  "parent":{
+    "name":"NPC",
+    "path":"folders/Objects/NPC.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

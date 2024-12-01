@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_npc_talk",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.208969,
+  "name":"snd_npc_talk",
+  "parent":{
+    "name":"ost",
+    "path":"folders/Sounds/ost.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_npc_talk.mp3",
+  "type":1,
+  "volume":1.0,
+}

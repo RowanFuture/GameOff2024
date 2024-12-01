@@ -1,0 +1,1 @@
+global.music_id = other.music;

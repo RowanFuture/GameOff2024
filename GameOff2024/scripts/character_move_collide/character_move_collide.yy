@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"character_move_collide",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"character_move_collide",
+  "parent":{
+    "name":"player",
+    "path":"folders/Objects/player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

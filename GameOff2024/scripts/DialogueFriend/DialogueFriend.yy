@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DialogueFriend",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DialogueFriend",
+  "parent":{
+    "name":"DialogueFriend",
+    "path":"folders/DialogueFriend.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

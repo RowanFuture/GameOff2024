@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DialogueFriendWrapper",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DialogueFriendWrapper",
+  "parent":{
+    "name":"INTERNALS",
+    "path":"folders/DialogueFriend/INTERNALS.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

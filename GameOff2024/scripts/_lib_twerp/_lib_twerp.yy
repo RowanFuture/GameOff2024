@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"_lib_twerp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"_lib_twerp",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

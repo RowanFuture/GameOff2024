@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"start_dialogue_sequence",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"start_dialogue_sequence",
+  "parent":{
+    "name":"NPC",
+    "path":"folders/NPC.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

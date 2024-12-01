@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_other_area",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":90.660706,
+  "name":"snd_other_area",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_other_area.wav",
+  "type":1,
+  "volume":1.0,
+}
